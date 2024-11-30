@@ -14,7 +14,7 @@ class HeroSection extends StatelessWidget {
       ),
       child: Center(
         child: Text(
-          "Welcome to Taj Hotel",
+          "Welcome to Love and Eat",
           style: TextStyle(
             fontSize: 28,
             color: Colors.yellow,

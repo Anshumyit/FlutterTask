@@ -26,7 +26,7 @@ class Footer extends StatelessWidget {
           ),
           SizedBox(height: 16),
           Text(
-            "© 2024 Taj Hotel. All Rights Reserved.",
+            "© 2024 Love and Eat. All Rights Reserved.",
             style: TextStyle(color: Colors.white, fontSize: 14),
           ),
         ],

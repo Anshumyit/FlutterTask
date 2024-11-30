@@ -7,7 +7,7 @@ class ResponsiveHomepage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Taj Hotel'),
+        title: Text('Love and Eat'),
       ),
       body: LayoutBuilder(
         builder: (context, constraints) {
